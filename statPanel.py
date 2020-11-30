@@ -1,8 +1,4 @@
-'''
-Created on Jan 3, 2019
 
-@author: Adan
-'''
 #statisticspanel
 
 import pygame as p
