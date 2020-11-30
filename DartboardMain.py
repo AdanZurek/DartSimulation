@@ -1,8 +1,3 @@
-'''
-Created on Jan 3, 2019
-
-@author: Adan
-'''
 
 import pygame as p
 import dartboard
